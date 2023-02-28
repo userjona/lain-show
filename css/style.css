@@ -172,6 +172,7 @@ button {
     align-items: center;
     height: 40%;
     width: 80%;
+    padding: 20px;
     border-radius: 10px;
     background: rgb(99, 99, 99);
 }
